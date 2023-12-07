@@ -1,0 +1,17 @@
+{
+  "name": "chenyunda/woocommerce-uepay",
+  "autoload": {
+    "psr-4": {
+      "Chenyunda\\WoocommerceUepay\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Dan Chen",
+      "email": "dan.chen@boardware.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
